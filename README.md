@@ -52,8 +52,8 @@ Aşağıda listelenen minimum uygulanabilir ürün (MVP) spesifikasyonlarını k
 
 Aşağıdaki soruları yanıtlayarak bu sprint'in kavramlarını anladığınızı gösterin. Her sorudan sonra yanıtlarınızı eklemek için bu belgeyi düzenleyin.
 
-1. DOM nedir?
-2. Bir event nedir?
-3. Bir event dinleyici(listener) nedir?
-4. Neden bir NodeList'i Array'e dönüştürelim??
-5. Bileşen nedir?
+1. DOM nedir? document objesi üzerinde herhangi bir objeyi değiştirmeye yarayan yapıdır. 
+2. Bir event nedir? kullanıcının gerçekleştirdiği herhangi bir olaydır.(tıklama, kaydırma vs vs)
+3. Bir event dinleyici(listener) nedir? kullanıcı herhangibir olayı yaptığında websitesinde bir değişiklik olmasını sağlayan metoddur. 
+4. Neden bir NodeList'i Array'e dönüştürelim?? array'e dönüştürüp, array'de uygulayabileceğimiz tüm metodları uygulamak için. 
+5. Bileşen nedir? tek başına ele alınabilen, üzerinde istenilen değişikliğe izin verilen, JS, Html, CSS koduna sahip yapıdır. 
